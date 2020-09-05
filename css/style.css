@@ -1,5 +1,9 @@
 @media (max-width: 600px) {
-  body {
-    background-color: lightblue;
+  header {
+    flex-wrap: wrap;
   }
+}
+
+#subscription {
+	display: flex;
 }
