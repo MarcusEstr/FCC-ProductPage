@@ -90,3 +90,14 @@ body {
 	margin-left: 40px;
 	margin-right: 40px;
 }
+
+/*Help for Creating Sticky Navbar: https://www.w3schools.com/howto/howto_js_navbar_sticky.asp*/
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + .content {
+  padding-top: 60px;
+}
