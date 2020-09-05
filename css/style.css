@@ -8,6 +8,7 @@
 	font-size: 20px;
 	font-family: 'Roboto', sans-serif;
 	text-align: center;
+	color: #004d99;
 }
 
 #video-section {
@@ -21,6 +22,19 @@
 #option1, #option2, #option3 {
 	width: 50%;
 	height: 50%;
+		/*border: 1px solid black;*/
+		text-align: center;
+		background-color: #80bbff;
+		margin: 10px 10px;
+}
+
+.sub-title {
+	font-size: 18px;
+	color: #004d99;
+}
+
+.sub-price {
+	font-size: 18px;
 }
 
 #learn-more {
