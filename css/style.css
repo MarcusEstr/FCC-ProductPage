@@ -7,3 +7,8 @@
 #subscription {
 	display: flex;
 }
+
+#option1, #option2, #option3 {
+	width: 50%;
+	height: 50%;
+}
