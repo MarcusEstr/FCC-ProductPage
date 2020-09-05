@@ -13,6 +13,11 @@
 
 #video-section {
 	max-width: 900px;
+	text-align: center;
+}
+
+#video {
+	display:inline-block;
 }
 
 #intro-paragraph {
