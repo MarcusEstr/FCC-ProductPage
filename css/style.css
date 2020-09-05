@@ -81,6 +81,10 @@
 	border: none;
 }
 
+.button:hover {
+	background-color: #00cccc;
+}
+
 p {
 	font-family: 'Roboto', sans-serif;
 }
