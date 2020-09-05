@@ -11,6 +11,7 @@
 @media (min-width: 1000px) {
 	#video {
 		width: 900px;
+		height: 500px;
 	}
 }
 
@@ -19,6 +20,19 @@
 	font-family: 'Roboto', sans-serif;
 	text-align: center;
 	color: #004d99;
+}
+
+.nav-link {
+	color: #ffffff;
+	background-color: #009999;
+	padding: 10px 10px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 20px;
+	text-decoration: none;
+}
+
+.nav-link:hover {
+	background-color: #00cccc;
 }
 
 #video-section {
