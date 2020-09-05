@@ -1,7 +1,17 @@
-@media (max-width: 600px) {
+@media (max-width: 700px) {
   header {
     flex-wrap: wrap;
   }
+
+  #video {
+  	width: 300px;
+  }
+}
+
+@media (min-width: 1000px) {
+	#video {
+		width: 900px;
+	}
 }
 
 .title-text {
@@ -12,7 +22,7 @@
 }
 
 #video-section {
-	max-width: 900px;
+	/*max-width: 900px;*/
 	text-align: center;
 }
 
