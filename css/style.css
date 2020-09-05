@@ -5,7 +5,7 @@
 }
 
 .title-text {
-	font-size: 20px;
+	font-size: 23px;
 	font-family: 'Roboto', sans-serif;
 	text-align: center;
 	color: #004d99;
@@ -13,6 +13,11 @@
 
 #video-section {
 	max-width: 900px;
+}
+
+#intro-paragraph {
+	font-style: italic;
+	font-size: 20px;
 }
 
 #subscription {
@@ -29,12 +34,14 @@
 }
 
 .sub-title {
-	font-size: 18px;
+	font-size: 20px;
 	color: #004d99;
+	font-weight: 700;
 }
 
 .sub-price {
 	font-size: 18px;
+	font-weight: 700;
 }
 
 #learn-more {
